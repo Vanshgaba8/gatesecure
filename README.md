@@ -1,16 +1,46 @@
-# flutter_ui
+# GateSecure  
 
-A new Flutter project.
+**GateSecure** is a comprehensive gate management system designed for educational institutions and similar organizations. It enables secure and efficient tracking of in/out entries of individuals, with added features for medical emergencies and historical data tracking.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
 
-A few resources to get you started if this is your first Flutter project:
+- **Barcode Scanning**: Allows admins/guards to scan ID cards for quick in/out entry recording.  
+- **Out Students Management**: Displays a dedicated list of all students currently outside the premises.  
+- **Medical Emergency Search**: Search and filter individuals by blood group for quick response during emergencies.  
+- **History Tracking**: Stores and displays all in/out records with timestamps and guard/admin details.  
+- **Student View**: Students can view their past entries and access a digital copy of their ID card.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📹 Demo  
+
+Watch the demo of **GateSecure** in action:  
+[![Watch the video](https://img.youtube.com/vi/1-HF2oa1urWz6oSKv90Jerio0TQ6oGKoV/maxresdefault.jpg)](https://drive.google.com/file/d/1-HF2oa1urWz6oSKv90Jerio0TQ6oGKoV/view)  
+
+---
+
+## 💡 System Overview  
+
+### Key Entities  
+1. **Guard/Admin**: Manages entry/exit records and oversees system operations.  
+2. **Student**: Interacts with the system for ID storage and history tracking.  
+3. **Medical**: Focuses on emergency support based on blood groups.  
+4. **History**: Maintains comprehensive logs of all activities.  
+
+### Core Workflows  
+- Entry/Exit process with barcode scanning.  
+- Viewing history records filtered by date or user role.  
+- Blood group search in emergency cases.  
+
+---
+
+## 🔧 Installation and Setup  
+
+Follow these steps to set up **GateSecure** on your local machine:  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/Vanshgaba8/gatesecure.git  
+   cd gatesecure  
