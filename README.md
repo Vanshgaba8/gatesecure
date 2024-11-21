@@ -16,8 +16,7 @@
 
 ## 📹 Demo  
 
-Watch the demo of **GateSecure** in action:  
-[[Watch the video]](https://drive.google.com/file/d/1-HF2oa1urWz6oSKv90Jerio0TQ6oGKoV/view)  
+[Watch the video](https://drive.google.com/file/d/1-HF2oa1urWz6oSKv90Jerio0TQ6oGKoV/view)  
 
 ---
 
