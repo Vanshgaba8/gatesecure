@@ -17,7 +17,7 @@
 ## 📹 Demo  
 
 Watch the demo of **GateSecure** in action:  
-[![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fvideo-symbol-icon.html&psig=AOvVaw3S8nHcTmRVOIlUuys7Q-M3&ust=1732266079538000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICS05WI7YkDFQAAAAAdAAAAABAJ)](https://drive.google.com/file/d/1-HF2oa1urWz6oSKv90Jerio0TQ6oGKoV/view)  
+[![Watch the video]](https://drive.google.com/file/d/1-HF2oa1urWz6oSKv90Jerio0TQ6oGKoV/view)  
 
 ---
 
